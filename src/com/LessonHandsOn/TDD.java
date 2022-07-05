@@ -7,7 +7,7 @@ public class TDD {
     @Test
     public void testIsTrue(){
         LessonHandsOn lho = new LessonHandsOn();
-        Assert.assertEquals(true, lho.isTrue(6));
+        Assert.assertEquals(true, lho.isTrue(7));
 
     }
 
